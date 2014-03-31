@@ -51,3 +51,4 @@ Liste des étudiants ayant réussi ce TP
 * Cédric Lefèvre.
 * Florian Lecoeuche.
 * Jordy Guilbert
+* Valentin Boyer
